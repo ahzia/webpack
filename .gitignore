@@ -1,7 +1,6 @@
-dist/
 #Node Modules
 node_modules/
 
 #build files
-
+dist/
 
